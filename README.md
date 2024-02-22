@@ -1,20 +1,7 @@
-## About me
-
-17 y/o high school student. Self-taught full stack developer since 2015. Main languages include Rust, C++, and C#, and sometimes I enjoy working in Assembly, C, or Python.
+## About us
+Innovating the future. We built high quality software solutions using modern tech stacks. We also believe that great software should be free, and so we provide all our services completely for free. Our only source of income is through donations and sponsors.
 
 ## Current projects
-
-Migrating codebases to Rust, as well as learning new frontend stacks.
-
-## Previous work
-
-- Linux CLI tools in C++/C#/Rust
-- Microcontrollers in Lua/APL
-- Custom 8-bit CPU architecture in Minecraft
-- Full stack apps in .NET (C#)
-- A bootloader and (barely) a kernel in C/ASM
-- A webserver in C++
+Building the next generation game management panel. Other more distant projects include intuitive machine learning libraries and custom game engines.
 
 ## Get in touch
-
-I am currently not doing commission based work, though you can still reach out regarding other matters.
