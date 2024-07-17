@@ -1,7 +1,7 @@
 ## About me
 Your average high schooler! When I don't study, I research and build cool software products. Sometimes I do freelancing work for other companies, the most recent of which included writing a custom data processing solution. Most of my repositories are private due to the nature of the codebases (e.g. company property or unfinished functionality), and they usually stay that way. :-)
 
-![RedTechTiger's GitHub stats](https://github-readme-stats.vercel.app/api?username=redtechtiger&show_icons=true&theme=radical)
+![RedTechTiger's GitHub stats](http://github-readme-stats-nine-sigma-84.vercel.app/api?username=redtechtiger&show_icons=true&theme=radical)
 
 ## Current projects
 Exploring the alternatives to browser-based apps and delving deeper into system-level programming. I'm playing around with WinAPI to achieve performant and lossless HiFi playback, and experimenting with Flutter to provide a snappy, clean, and lightweight user experience. Here are a couple of my way-too-many concurrent projects, excluding paid work:
